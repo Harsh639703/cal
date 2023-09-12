@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+html,body{
+    height:100%;
+    width:100%;
+    font-family: 'Open Sans', sans-serif;
+}
+.button{
+    padding:20px ;
+    margin:0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor:pointer;
+    width: 66px;
+    background-image:  linear-gradient(79deg ,#170f0f,#5ccee2 48%);
+}
+
+
+.row{
+    margin:8px 0;
+}
+.row input{
+    margin:0;
+    padding: 10px 2px;
+    border:2px solid black;
+    border-radius:5px;
+    font-size: 19px;
+   width: 291px;
+
+    
+}
+body {
+   background-image:  linear-gradient(79deg ,#3a3535,#f8fbfc 88%);
+  }
